@@ -47,6 +47,5 @@ function switchAge(age) {
 
 }
 
-switchAge(21);
 
 
