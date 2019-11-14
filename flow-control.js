@@ -40,12 +40,12 @@ function switchAge(age) {
       console.log("You are a teenager");
       break;
     default:
-    return("You have an age");
+    return "You have an age";
       
   }
 
 }
 
-switchAge(20);
+switchAge(21);
 
 
