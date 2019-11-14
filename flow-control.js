@@ -46,5 +46,7 @@ function switchAge(age) {
 
 }
 
+switchAge(99);
+
 
 
